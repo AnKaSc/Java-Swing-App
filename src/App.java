@@ -6,7 +6,7 @@ public class App {
             @Override
             public void run() {
                 MainFrame frame = new MainFrame();
-                frame.setSize(500, 400);
+                frame.setSize(700, 500);
                 frame.setLocationRelativeTo(null);
                 frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
                 frame.setVisible(true);
